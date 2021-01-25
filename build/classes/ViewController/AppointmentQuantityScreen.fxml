@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="307.0" prefWidth="396.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="ViewController.AppointmentQuantityScreenController">
+   <children>
+      <ComboBox fx:id="typeMenu" layoutX="225.0" layoutY="55.0" onAction="#selectType" prefWidth="150.0" />
+      <ComboBox fx:id="monthMenu" layoutX="225.0" layoutY="101.0" onAction="#selectMonth" prefWidth="150.0" />
+      <Label layoutX="59.0" layoutY="59.0" text="Select Appointment Type:" />
+      <Label layoutX="59.0" layoutY="105.0" text="Select Month:" />
+      <Button fx:id="retrieveResults" layoutX="225.0" layoutY="153.0" mnemonicParsing="false" onAction="#displayResults" prefHeight="25.0" prefWidth="150.0" text="Retrieve Results" />
+      <Label layoutX="59.0" layoutY="220.0" text="Number of Appointments:" />
+      <Label fx:id="resultsLabel" layoutX="225.0" layoutY="220.0" prefHeight="17.0" prefWidth="150.0" />
+      <Button fx:id="backButton" layoutX="323.0" layoutY="267.0" mnemonicParsing="false" onAction="#back" text="Back" />
+   </children>
+</AnchorPane>

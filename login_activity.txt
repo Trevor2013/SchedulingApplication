@@ -1,0 +1,138 @@
+Dec 17, 2020 4:30:49 PM ViewController.LoginFormController logIn
+INFO: Login Attempt by User: 
+Dec 17, 2020 4:30:49 PM ViewController.LoginFormController logIn
+INFO: Time: Thu Dec 17 16:30:43 MST 2020
+Dec 17, 2020 4:30:50 PM ViewController.LoginFormController logIn
+INFO: Login Not Successful
+Dec 17, 2020 4:30:54 PM ViewController.LoginFormController logIn
+INFO: Login Attempt by User: asdf
+Dec 17, 2020 4:30:54 PM ViewController.LoginFormController logIn
+INFO: Time: Thu Dec 17 16:30:43 MST 2020
+Dec 17, 2020 4:30:55 PM ViewController.LoginFormController logIn
+INFO: Login Not Successful
+Dec 17, 2020 4:31:01 PM ViewController.LoginFormController logIn
+INFO: Login Attempt by User: test
+Dec 17, 2020 4:31:01 PM ViewController.LoginFormController logIn
+INFO: Time: Thu Dec 17 16:30:43 MST 2020
+Dec 17, 2020 4:31:02 PM ViewController.LoginFormController logIn
+INFO: Login Successful
+Dec 17, 2020 4:31:21 PM ViewController.LoginFormController logIn
+INFO: Login Attempt by User: as
+Dec 17, 2020 4:31:21 PM ViewController.LoginFormController logIn
+INFO: Time: Thu Dec 17 16:31:15 MST 2020
+Dec 17, 2020 4:31:22 PM ViewController.LoginFormController logIn
+INFO: Login Not Successful
+Dec 17, 2020 4:33:40 PM ViewController.LoginFormController logIn
+INFO: UNSUCCESSFUL Login Attempt by User: as; Time: Thu Dec 17 16:33:33 MST 2020
+Dec 17, 2020 4:33:46 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Thu Dec 17 16:33:33 MST 2020
+Dec 19, 2020 8:53:02 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 08:52:52 MST 2020
+Dec 19, 2020 9:02:48 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:02:34 MST 2020
+Dec 19, 2020 9:11:17 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:11:09 MST 2020
+déc. 19, 2020 9:12:33 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:12:22 MST 2020
+déc. 19, 2020 9:16:32 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:16:23 MST 2020
+déc. 19, 2020 9:24:40 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:24:32 MST 2020
+déc. 19, 2020 9:27:46 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:27:38 MST 2020
+déc. 19, 2020 9:43:42 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:43:35 MST 2020
+déc. 19, 2020 9:45:05 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:44:58 MST 2020
+déc. 19, 2020 9:51:42 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:51:35 MST 2020
+déc. 19, 2020 9:53:01 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 09:52:54 MST 2020
+Dec 19, 2020 10:11:06 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 10:10:49 MST 2020
+Dec 19, 2020 1:58:02 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 13:57:52 MST 2020
+Dec 19, 2020 2:02:14 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:02:06 MST 2020
+Dec 19, 2020 2:06:17 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:06:09 MST 2020
+Dec 19, 2020 2:08:04 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:07:56 MST 2020
+Dec 19, 2020 2:12:44 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:12:36 MST 2020
+Dec 19, 2020 2:16:24 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:16:16 MST 2020
+Dec 19, 2020 2:17:48 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:17:40 MST 2020
+Dec 19, 2020 2:19:23 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:19:16 MST 2020
+Dec 19, 2020 2:24:39 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:24:32 MST 2020
+Dec 19, 2020 2:31:37 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:31:28 MST 2020
+Dec 19, 2020 2:34:08 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:33:59 MST 2020
+Dec 19, 2020 2:34:50 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:34:43 MST 2020
+Dec 19, 2020 2:35:21 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:35:13 MST 2020
+Dec 19, 2020 2:37:32 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:37:03 MST 2020
+Dec 19, 2020 2:38:03 PM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Sat Dec 19 14:37:55 MST 2020
+Dec 22, 2020 7:57:48 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 07:57:40 MST 2020
+Dec 22, 2020 7:59:14 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 07:59:03 MST 2020
+Dec 22, 2020 8:01:46 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:01:38 MST 2020
+Dec 22, 2020 8:02:46 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:02:38 MST 2020
+Dec 22, 2020 8:07:15 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:07:07 MST 2020
+Dec 22, 2020 8:10:18 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:10:10 MST 2020
+Dec 22, 2020 8:15:54 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:15:37 MST 2020
+Dec 22, 2020 8:17:58 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:17:47 MST 2020
+Dec 22, 2020 8:21:26 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:21:19 MST 2020
+Dec 22, 2020 8:47:15 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:47:08 MST 2020
+Dec 22, 2020 8:54:31 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:54:23 MST 2020
+Dec 22, 2020 8:56:32 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 08:56:25 MST 2020
+Dec 22, 2020 9:11:04 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:10:56 MST 2020
+Dec 22, 2020 9:18:32 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:18:23 MST 2020
+Dec 22, 2020 9:19:46 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:19:38 MST 2020
+Dec 22, 2020 9:23:26 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:23:19 MST 2020
+Dec 22, 2020 9:46:47 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:46:37 MST 2020
+Dec 22, 2020 9:47:39 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:47:32 MST 2020
+Dec 22, 2020 9:56:44 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:56:35 MST 2020
+Dec 22, 2020 9:58:35 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:58:28 MST 2020
+Dec 22, 2020 9:59:15 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 09:59:07 MST 2020
+Dec 22, 2020 10:12:59 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:12:54 MST 2020
+Dec 22, 2020 10:14:11 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:14:06 MST 2020
+Dec 22, 2020 10:15:07 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:15:01 MST 2020
+Dec 22, 2020 10:42:23 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:42:17 MST 2020
+Dec 22, 2020 10:44:32 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:44:24 MST 2020
+Dec 22, 2020 10:53:35 AM ViewController.LoginFormController logIn
+INFO: SUCCESSFUL Login Attempt by User: test; Time: Tue Dec 22 10:53:29 MST 2020
+Dec 22, 2020 11:01:37 AM ViewController.LoginFormController logIn
+INFO: UNSUCCESSFUL Login Attempt by User: ; Time: Tue Dec 22 11:01:33 MST 2020

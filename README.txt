@@ -4,7 +4,7 @@ Application Purpose: The purpose of this application is to provide appointment s
 This application interacts with a MySQL database.
 
 Author: Trevor Ross
-Author Contact Information: tros114@wgu.edu
+Author Contact Information: trevor.ross.2013@gmail.com
 Application version: 1.0
 Release Date: 12/17/2020
 
@@ -17,7 +17,7 @@ JavaFX version: JavaFX-SDK-11.0.2
 Instructions:
 
 After importing the project into NetBeans, from NetBeans, select RUN (or press F6).  Log in to the application, 
-and then select the desired functionality from the main menu.
+and then select the desired functionality from the main menu.  The user name and password are "test".
 
 Additional Report:
 
